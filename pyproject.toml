@@ -1,0 +1,17 @@
+[project]
+name = "dirtygit"
+version = "0.1.0"
+description = "A simple Python library for detecting unclean git states."
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.9"
+authors = [{ name = "Mitchell DeHaven" }]
+keywords = ["git", "reproducibility", "experiments"]
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

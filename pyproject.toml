@@ -1,6 +1,6 @@
 [project]
 name = "dirtygit"
-version = "0.1.0"
+version = "0.2.0"
 description = "A simple Python library for detecting unclean git states."
 readme = "README.md"
 license = "MIT"
